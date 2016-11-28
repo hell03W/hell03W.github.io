@@ -1,19 +1,19 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: 韦东方的博客
+description: "爱生活,爱自由,爱代码."
+url: "https://hell03W.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
-header-img: img/home-bg.jpg
+baseurl: "/hell03W"
+header-img: "img/home-bg.jpg"
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  hell03W
 project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
