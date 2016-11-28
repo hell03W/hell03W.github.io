@@ -5,15 +5,14 @@ url: "https://hell03W.github.io"
 
 
 
-
 # Secondary Parameters
-baseurl: "/hell03W"
+baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  hell03W
+github_username:  projectpages
 project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
